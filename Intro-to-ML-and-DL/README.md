@@ -17,7 +17,7 @@ Al momento de iniciar el curso (06-09-2023) se recomienda instalar los siguiente
    scikit-learn
    scikit-learn-intelex
    imbalanced-learn
-- Docker Desktop
+- Docker Desktop 4.22.1
 - Visual Studio Code con las siguientes extensiones
   - __TODO:__ add installation instructions, similar to the [modern cpp must have tools wiki](https://github.com/nachovizzo/must-have-tools/wiki).
 
