@@ -23,12 +23,13 @@ Al momento de iniciar el curso (06-09-2023) se recomienda instalar los siguiente
 
 ## Instalación
 
-===
+---
+
 Proporciona instrucciones sobre cómo instalar el proyecto localmente. Incluye pasos específicos para configurar el entorno y las dependencias necesarias. Puedes utilizar virtual environments para mantener el ambiente aislado y limpio.
 
 ### Python
 
-===
+---
 Primero, se instalan los paquetes para administrar el entorno virtual.
 
 ``` bash
@@ -44,7 +45,7 @@ pip install -r requirements.txt
 
 ### Docker
 
-===
+---
 
 ## Estructura del Proyecto
 
