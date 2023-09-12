@@ -3,6 +3,8 @@ numpy               # ==     1.25.2
 matplotlib          # ==     3.7.2
 matplotlib-inline   # ==     0.1.6
 flashtext           # ==     2.7
+ipykernel
+
 #explore using flashtext2
 #flashtext2         #   ==     0.2.0
 #opencv-python  # ==  4.6.0
